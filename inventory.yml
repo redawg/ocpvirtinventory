@@ -1,10 +1,10 @@
 plugin: redhat.openshift_virtualization.kubevirt
 connections:
-  - host: "{{ host }}"
+  - host: https://console-openshift-console.apps.m924n.dynamic.redhatworkshops.io:8443
     username: admin
-    password: "{{ api_key }}"
+    password: exH5jRQaT4cq
     validate_certs: false
-use_extra_vars: true
+
   
       
     
