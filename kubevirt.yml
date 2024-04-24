@@ -1,4 +1,4 @@
-plugin: kubevirt
+plugin: redhat.openshift_virtualization.kubevirt
 connections:
 - namespaces:
   - vmexamples
