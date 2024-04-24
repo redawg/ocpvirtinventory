@@ -1,4 +1,4 @@
 ---
 collections:
-- name: redhat.openshift  #Certified Collection for inventory plugin
+- name: redhat.openshift  
 - name: redhat.openshift_virtualization
