@@ -4,6 +4,7 @@ connections:
     username: admin
     password: "{{ api_key }}"
     validate_certs: false
+use_extra_vars: true
   
       
     
