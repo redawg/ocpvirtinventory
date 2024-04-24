@@ -1,0 +1,9 @@
+- name: Authenticate with token and return all VirtualMachineInstances for all accessible namespaces
+  plugin: redhat.openshift_virtualization.kubevirt
+  connections:
+    - host: "{{ host }}"
+      api_key: "{{ api_key }}"
+      validate_certs: false
+      namespace: vmexamples
+      
+    

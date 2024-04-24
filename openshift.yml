@@ -1,4 +1,0 @@
-plugin: redhat.openshift.openshift
-connections:
-  - namespaces:
-      - vmexamples
