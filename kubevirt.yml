@@ -1,3 +1,6 @@
-plugin: redhat.openshift_virtualization.kubevirt
+plugin: kubevirt
 connections:
-   validate_certs: false
+- namespaces:
+  - vmexamples
+  network_name: net-0
+  label_selector: app=database
