@@ -1,5 +1,5 @@
 ---
-plugin: kubevirt.core.kubevirt
+plugin: kubevirt
 connections:
   - namespaces:
       - vmexamples
