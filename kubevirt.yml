@@ -4,6 +4,7 @@
     - host: "{{ host }}"
       api_key: "{{ api_key }}"
       validate_certs: false
-      namespace: vmexamples
+    - namespaces: 
+        - vmexamples
       
     
