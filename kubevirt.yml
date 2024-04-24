@@ -2,4 +2,3 @@ plugin: redhat.openshift_virtualization.kubevirt
 connections:
 - namespaces:
   - vmexamples
-  network_name: net-0
