@@ -1,0 +1,3 @@
+---
+collections:
+- name: redhat.openshift  #Certified Collection for inventory plugin
