@@ -2,3 +2,4 @@ plugin: kubevirt.core.kubevirt
 connections:
   - namespaces:
       - vmexamples
+host_format:{name}
