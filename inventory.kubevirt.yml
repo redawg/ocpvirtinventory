@@ -1,1 +1,4 @@
 plugin: kubevirt.core.kubevirt
+connections:
+  - namespaces:
+      - vmexamples
