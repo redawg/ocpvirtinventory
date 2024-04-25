@@ -2,5 +2,5 @@ plugin: kubevirt.core.kubevirt
 connections:
   - namespaces:
       - vmexamples
-    network_name: net-0
-    label_selector: app=database
+#    network_name: net-0
+#    label_selector: app=database
