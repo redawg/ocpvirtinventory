@@ -1,5 +1,5 @@
 ---
 collections:
-- name: kubevirt.core
+- name: kubevirt.core.kubevirt
 - name: kubernetes.core
   version: '>=3.0.1'
